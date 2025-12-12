@@ -38,7 +38,7 @@ The UI has been built to ensure smooth accessibility of the website over mobile,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/harshithi5/UhlLekh.git
+https://github.com/Manish-66/UhlLekh.git
 cd UhlLekh
 ```
 
